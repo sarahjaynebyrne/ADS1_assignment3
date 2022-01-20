@@ -1,6 +1,6 @@
 # ADS1_assignment3
 
-TITLE OF PROJECT = nalysing the Relationship between the Human Development Index and Mortality Rates within countries.
+TITLE OF PROJECT = Analysing the Relationship between the Human Development Index and Mortality Rates within countries.
 
 This assignment was conducted using a dataset from World Bank the website link -> https://data.worldbank.org/indicator/SH.DYN.MORT.
 
