@@ -14,15 +14,6 @@ Additionally, the study applied this predictive model to two further years; 2000
 to see if it remained to be a best-fit and could be used to predict future mortality rates based off of countries 
 Human Development Index.
 
-Applying PEP-8 guidelines to my code.
-
-This project used the following modules:
-
-- pandas
-- matplotlib.pyplot
-- numpy
-- scipy.stats
-
 
 This repository contains 4 branches:
 
@@ -30,6 +21,9 @@ This repository contains 4 branches:
 - figures (jpeg format) -> contains the figures the code produces
 - code -> older versions of the code as proof that the code improved overtime (hopefully ;) )
 - datasets -> the datasets used in the code (csv format) to use yourself :)
+
+
+Applying PEP-8 guidelines to my code.
 
 NB: code also contains Object-Oriented Programming for that extra mark :)
 
